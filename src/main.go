@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	variable := "abc"
+	variable := "123456"
 	fmt.Println(variable)
 }
